@@ -7,7 +7,7 @@
 
 CoolClass::CoolClass(void)
 {
-
+((
 
 }
 
